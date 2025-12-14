@@ -401,5 +401,6 @@ For issues, questions, or contributions, please refer to the project repository 
 
 **Happy Coding! 🎉**
 
-#   s w e e t - s h o p - m a n a g e m e n t - s y s t e m -  
+#   s w e e t - s h o p - m a n a g e m e n t - s y s t e m - 
+ 
  
